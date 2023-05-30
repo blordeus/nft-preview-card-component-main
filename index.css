@@ -57,6 +57,8 @@
 
 .line {
   color: #2E405A;
+  border-bottom: 2px solid #2E405A;
+  padding-bottom: 10px;
 }
 
 .attribution {

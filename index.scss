@@ -65,6 +65,8 @@ $crypto: #00FFF8;
 
 .line {
     color: $linecolor;
+    border-bottom: 2px solid $linecolor;
+    padding-bottom: 10px;
 }
 
 .attribution { 

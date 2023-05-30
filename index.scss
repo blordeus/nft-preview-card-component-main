@@ -1,3 +1,57 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
 
-$font-stack: font-family: 'Outfit', sans-serif;
+$font-stack: 'Outfit', sans-serif;
+$description: #8BACD9;
+$mainbg: #0D192C;
+$cardbg: #15263F;
+$linecolor: #2E405A;
+$crypto: #00FFF8;
+
+.main-bg {
+    background-color: $mainbg;
+}
+
+.card-bg {
+    background-color: $cardbg;
+}
+
+.heading {
+    font-size: 22px;
+    font-family: $font-stack;
+    font-weight: 600;
+    color: white;
+}
+
+.description {
+    font-size: 18px;
+    font-family: $font-stack;
+    font-weight: 400px;
+    color: $description;
+}
+
+.imagecontainer {
+    padding: 10px;
+}
+
+.box-pic {
+    width: 100%;
+    height: 100%
+}
+
+.crypto {
+    font-family: $font-stack;
+    font-size: 16px;
+    font-weight: 600px;
+    color: $crypto;
+}
+
+.time {
+    font-family: $font-stack;
+    font-size: 16px;
+    font-weight: 300;
+    color: $description;
+}
+
+.line {
+    color: $linecolor;
+}

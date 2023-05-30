@@ -33,8 +33,15 @@ $crypto: #00FFF8;
     color: $description;
 }
 
+.caption {
+    font-size: 16px;
+    font-family: $font-stack;
+    font-weight: 300px;
+    color: $description;
+}
+
 .imagecontainer {
-    padding: 100px;
+    padding: 7%;
 }
 
 .box-pic {
@@ -62,7 +69,8 @@ $crypto: #00FFF8;
 
 .attribution { 
     font-size: 11px; 
-    text-align: center; 
+    text-align: center;
+    color: white; 
 }
 
 .attribution a { 

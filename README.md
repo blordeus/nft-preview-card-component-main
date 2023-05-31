@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-* Solution URL: [Solution](https://your-solution-url.com)
-* Live Site URL: [Live Site](https://your-live-site-url.com)
+* Solution URL: [Solution](https://github.com/blordeus/nft-preview-card-component-main.git)
+* Live Site URL: [Live Site](https://blordeus.github.io/nft-preview-card-component-main/)
 
 ## My process
 

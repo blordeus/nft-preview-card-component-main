@@ -22,6 +22,21 @@ main {
   font-weight: 600;
   color: white;
 }
+.heading:hover {
+  color: #00FFF8;
+  cursor: pointer;
+}
+
+.caption-JW {
+  font-size: 16px;
+  font-family: "Outfit", sans-serif;
+  font-weight: 300;
+  color: white;
+}
+.caption-JW:hover {
+  color: #00FFF8;
+  cursor: pointer;
+}
 
 .description {
   font-size: 18px;
@@ -39,6 +54,16 @@ main {
 
 .imagecontainer {
   padding: 7%;
+}
+.imagecontainer:hover {
+  background-image: url(./images/icon-view.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.overlay:hover {
+  opacity: 70%;
+  mix-blend-mode: screen;
 }
 
 .box-pic {
